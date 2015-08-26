@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.redhat</groupId>
-	<artifactId>dferoli-simple</artifactId>
+	<artifactId>dferoli-simple_knowledge</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>simple</name>
+	<name>simple_knowledge</name>
 
   
   <url>http://maven.apache.org</url>
